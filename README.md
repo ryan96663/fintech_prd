@@ -57,10 +57,10 @@
 - 流程图设计如下：
 ![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-AI%E5%AE%A2%E6%9C%8D-RAG.jpg)
 
-### 结构图
+### 产品结构图示例
 ![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.jpeg)
 ![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.jpeg)
 
-### 原型图
+### 核心界面原型图示例
 ![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/prototypes/%E6%A0%B8%E5%BF%83%E7%95%8C%E9%9D%A2.png)
 

@@ -52,27 +52,31 @@
 1）市场规模与趋势\-\-稳步增长，相较于国际水平仍有成长空间
 
 随着我国经济快速发展，保险密度在过去的7年内总体呈稳步增加态势，7年间增幅达到48%；受疫情影响，2020\-2022年保险深度下降，2022年后逐渐回暖，至2024年恢复到4\.2%。
-![[市场背景.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E5%B8%82%E5%9C%BA%E8%83%8C%E6%99%AF.png)
 从长期发展维度看，我国保险深度与国际平均水平仍存在显著差距，行业存在较大提升空间，我国作为发展中国家，居民基础性支出压力大，长期保障需求层次有待提升。
-![[市场背景_2.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E5%B8%82%E5%9C%BA%E8%83%8C%E6%99%AF_2.png)
+
 2）保险消费者行为分析：由于网络发展，消费者信息获取渠道拓宽，保险的传统代理人销售模式正转向为从网络信息处获取保险信息并购买的方式。购买渠道存在转移到线上购买的趋势，购买原因更多为风险意识的提升和家庭/自身健康状况的改变。
 
 ①购买渠道：2025年消费者在保产品的购买渠道当中，传统保险公司线上渠道首度超越其线下渠道，成为消费者购险的第一入口。
-![[购买渠道.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93.png)
 ②购买因素：主要归因为个人风险意识的提升，成员/个人身体状况的变化，家庭责任提升。（购买原因主要还是人找保险，而不是真实需求找保险）
-![[购买因素.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E8%B4%AD%E4%B9%B0%E5%9B%A0%E7%B4%A0.png)
 ③信息获取渠道：向周围人了解是消费者了解保险的首选方式，其次是通过社交媒体和短视频渠 道；通过AI工具了解保险占比达到16%，实现了大幅增长。
-![[信息获取渠道.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%B8%A0%E9%81%93.png)
 ④消费者痛点：消费者在了解保险时最偏好产品对比/测评、理赔案例/指南、知识科普等实用且真实的信 息，并偏好案例故事、短视频、图文文章等内容形式；**认为当前内容存在晦涩难懂、真假难辨、销售 导向过强等不足**
-![[消费者痛点.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E6%B6%88%E8%B4%B9%E8%80%85%E7%97%9B%E7%82%B9.png)
 3）目标用户：20\-40岁年轻群体、中高收入者、高等教育人群
 
 ①互联网保险购买正在从线上转线下：消费者从线下转到线上的TOP3原因分别是投保方便、缴费方式灵活、信息更透 明；分险种来看，信息透明是互联网储蓄型保险/寿险的最显著优势，缴费方式灵活是互联网重疾 险的最突出特征
-![[目标用户_2 1.png|344]]
-![[目标用户_1 1.png|332]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E7%9B%AE%E6%A0%87%E7%94%A8%E6%88%B7_1.png)
+
 ②目标用户定位：消费者收入越高，越倾向在线上渠道购险；细分渠道来看，20\-30岁的年轻群体偏好在 互联网保险中介、互联网保险公司购险，50岁以上的中老年群体倾向在传统保险公司线上渠道购险
-![[目标用户_3.png]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E7%9B%AE%E6%A0%87%E7%94%A8%E6%88%B7_2.png)
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/images/%E7%9B%AE%E6%A0%87%E7%94%A8%E6%88%B7_3.png)
+
 ③用户画像分析：
+
 用户A基本画像
 
 | 维度         | 用户A                                                                                  |
@@ -141,32 +145,32 @@
 # 三，产品结构
 
 ## 产品结构图
-![[产品结构图.jpeg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE.jpeg)
+
 ## 功能结构图
-![[功能结构图.jpeg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE.jpeg)
+
 ## 信息结构图
-![[信息结构图.jpeg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.jpeg)
 
 # 四，业务流程图
 
 ## AI客服运行流程
-![[流程图-AI客服-RAG.jpg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-AI%E5%AE%A2%E6%9C%8D-RAG.jpg)
 
 ## 账号登陆流程
-![[流程图-注册.jpg]]
-![[流程图-登录.jpg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-%E6%B3%A8%E5%86%8C.jpg)
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-%E7%99%BB%E5%BD%95.jpg)
 
 ## APP使用流程
-![[流程图-全局.jpg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-%E5%85%A8%E5%B1%80.jpg)
 
 ## 交易流程
-![[流程图-交易.jpg]]
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-%E4%BA%A4%E6%98%93.jpg)
 
 ## 五，交互说明
 
 > 说明格式：T=触发条件，R=规则约束，F=反馈表现，E=异常处理（仅列优先关注的异常）
-> 
-> 
 
 ### 5\.1 全局说明
 

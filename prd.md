@@ -170,6 +170,13 @@
 ## 交易流程
 ![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/docs/diagrams/%E6%B5%81%E7%A8%8B%E5%9B%BE-%E4%BA%A4%E6%98%93.jpg)
 
+## 四，产品原型图
+### 1\. 登录与注册
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/prototypes/%E7%99%BB%E5%BD%95%E4%B8%8E%E6%B3%A8%E5%86%8C.png)
+
+### 2\. 核心界面
+![系统架构图](https://github.com/ryan96663/fintech_prd/blob/main/prototypes/%E6%A0%B8%E5%BF%83%E7%95%8C%E9%9D%A2.png)
+
 ## 五，交互说明
 
 > 说明格式：T=触发条件，R=规则约束，F=反馈表现，E=异常处理（仅列优先关注的异常）
